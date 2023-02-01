@@ -1,0 +1,6 @@
+✅ make responsive style
+✅ states (full name)
+✅ make input more generic
+
+clear occupation and state onSubmit
+create req.js file 2 func, get, post, decouple get from get cache

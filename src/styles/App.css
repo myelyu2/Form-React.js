@@ -56,3 +56,33 @@ body {
 .form-submit-button:hover {
   background-color: #444;
 }
+
+.error-msg {
+  display: none;
+}
+
+.form-input.invalid {
+  border-bottom: 2px solid red;
+}
+
+.form-input.invalid::placeholder {
+  color: red;
+}
+
+.form-input.invalid + .error-msg {
+  display: block;
+  color: red;
+  margin-bottom: 20px;
+  margin-top: -15px;
+  font-size: 14px;
+}
+
+
+.success-msg {
+  color: green;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellowgreen;
+  align-items: center;
+}

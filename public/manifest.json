@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Form app",
+  "name": "Form using React",
   "icons": [],
   "start_url": ".",
   "display": "standalone",

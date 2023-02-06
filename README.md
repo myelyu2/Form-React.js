@@ -50,8 +50,8 @@ Once all dependencies are installed, you should be able to run the project witho
 
 
 ## Usage
-![Screen Recording 2023-02-06 at 1 49 28 PM](https://user-images.githubusercontent.com/89800281/217071888-93ab62dd-6d69-4178-a2e7-09669eb364fa.gif)
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/89800281/217072275-60796246-91cb-4ec3-a7c2-d9dd9726b4f5.gif)
 
 To use the form on this website, follow these steps:
 
